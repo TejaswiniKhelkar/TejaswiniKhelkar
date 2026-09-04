@@ -181,7 +181,7 @@ A developer-focused project created to explore programming and practical softwar
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=TejaswiniKhelkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=TejaswiniKhelkar&layout=compact&theme=tokyonight&hide_border=true"
 alt="GitHub Stats"/>
 
 <img height="180"
@@ -193,7 +193,7 @@ alt="GitHub Streak"/>
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniKhelkar&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=TejaswiniKhelkar&layout=compact&theme=tokyonight&hide_border=true"
 alt="Top Languages"/>
 
 </p>
