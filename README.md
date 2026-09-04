@@ -1,9 +1,10 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 
 <p align="center">
-  <img src="./github_banner.gif" width="100%" alt="Animated Banner"/>
+  <img src="./github_banner.gif" width="100%" alt="Animated GitHub Banner"/>
 </p>
 
+<br>
 
 <!-- ===================== INTRO ===================== -->
 
@@ -21,6 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=TejaswiniKhelkar&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<br>
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -32,9 +34,9 @@
 
 💻 I enjoy turning ideas into working projects and continuously improving my development skills.
 
-🔬 Exploring AI research while learning through hands-on projects, experimentation, and new technologies.
+🔬 Exploring AI research through hands-on projects, experimentation, and new technologies.
 
-🚀 Always learning. Always building. Always growing.
+🚀 Always learning • Always building • Always growing
 
 
 <!-- ===================== CONNECT ===================== -->
@@ -44,19 +46,19 @@
 <p align="center">
 
 <a href="https://instagram.com/tejuu_.vx">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/tejaswini-khelkar-a0389232a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/@Tejaswini_Builds">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="mailto:tejaswinikhelkar450@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -179,17 +181,20 @@ A developer-focused project created to explore programming and practical softwar
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=TejaswiniKhelkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=TejaswiniKhelkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="GitHub Stats"/>
 
 <img height="180"
-src="https://streak-stats.demolab.com/?user=TejaswiniKhelkar&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com/?user=TejaswiniKhelkar&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </p>
 
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniKhelkar&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniKhelkar&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
 
 </p>
 
@@ -200,12 +205,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniKhe
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TejaswiniKhelkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TejaswiniKhelkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="GitHub Trophies"/>
 
 </p>
 
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
 
 ## 🐍 Contribution Activity
 
@@ -219,9 +225,11 @@ alt="GitHub Contribution Snake"/>
 
 <!-- ===================== FOOTER ===================== -->
 
+<br>
+
 <p align="center">
 
-### ✨ Build • Learn • Create • Grow ✨
+✨ <b>Build • Learn • Create • Grow</b> ✨
 
 </p>
 
