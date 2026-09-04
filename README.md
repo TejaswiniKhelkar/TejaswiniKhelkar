@@ -178,8 +178,6 @@ A developer-focused project created to explore programming and practical softwar
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
 
 <img height="180"
